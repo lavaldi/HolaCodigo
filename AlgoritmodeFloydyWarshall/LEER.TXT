@@ -1,9 +1,8 @@
-proyecto de grafos:
-ubicacion de esquinas y distancias de ellas en el centro historico de trujillo
+Ubicacion de esquinas y distancias de ellas en el centro historico de trujillo
 el proyecto guarda informacion de la ubicacion en latitud y longitud del centro
 historico
 
 Se tiene una imagen con el mapa del centro historico y los nombres de los 
 vertices como referencia
 
-alumno: carlos zarate florian
+Autor: carlos zarate florian
